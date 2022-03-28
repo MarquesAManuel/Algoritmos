@@ -1,0 +1,4 @@
+Agrego un txt con el metodo para compilarlo correctamente para que solo tenga que copiar
+y pegarlo
+
+g++ -o Zoologico.exe TPFinal.cpp menuanimales.cpp animal.cpp oviparo.cpp mamifero.cpp cocodrilo.cpp pelicano.cpp pato.cpp murcielago.cpp ballena.cpp leonmarino.cpp
